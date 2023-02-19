@@ -9,6 +9,13 @@ This is a project to detect credit card fraud using machine learning techniques.
 4. Tomek Links
 5. Near Miss
 
+## Classifiers used
+1. KNN 
+2. SVM
+3. Decision Tree
+4. Random Forest
+5. Naive Bayes
+
 ## Sampled data
 <img src = "static/sampling.png"/>
 
